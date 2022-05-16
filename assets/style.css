@@ -1,0 +1,133 @@
+/* Universal selectors */
+* { 
+    font-family:  'Comfortaa', cursive;
+    image-resolution: inherit;
+    background-color: #EAE7DC;
+}
+
+/* For everything within the porfolio area */
+.portfolio { 
+    background-color: #EEE2DC;
+    color: #123C69;
+}
+
+/* For everything within the card-body area */
+.card-body {
+    background-color: #EEE2DC;
+    color: #123C69;
+}
+
+/* For everything within the NavBar */
+.navbar {
+    background-color: #EEE2DC;
+    color: #123C69;
+    justify-content: right;
+}
+
+#navBar {
+    justify-content: right;
+}
+
+.navbar-brand{ 
+    font-size: 16px;
+    color:#123C69;
+    font-weight: 200;
+}
+
+.nav-item {
+    text-align: right;
+    color:#123C69;
+    font-weight: 200;
+}
+
+
+.img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.welcome {
+    margin: auto;
+}
+
+/* For the name at the top of the page */
+.ms9 {
+    position: relative;
+    font-weight: 500;
+    font-size: 4.5em;
+    color: #AC3B61;
+}
+
+.ms9 .text-wrapper {
+    position: relative;
+    display: inline-block;
+    padding-top: auto;
+    padding-right: 0.05em;
+    padding-bottom: 0.1em;
+    overflow: hidden;
+}
+
+.ms9 .letter {
+    transform-origin: 50% 100%;
+    display: inline-block;
+    line-height: 1em;
+}
+
+.section{
+    padding-top:10%
+}
+
+.title{
+    padding-bottom: 10px;
+    margin-top: 20px;
+    color: #AC3B61;
+}
+
+.h3 {
+    background-color: #EDC7b7;
+    color: #AC3B61;
+    font-size: larger;
+}
+
+.card{
+    background-color: #EEE2DC;
+}
+
+/* For the contact links */
+.contact-links a{
+    color: #123C69;
+}
+
+.contact-links a:hover {
+    color: #BAB2B5;
+    list-style: none; 
+}
+
+ul#social-media{
+    list-style-type: none;
+    display: flex;
+    padding: 0px;
+    justify-content: space-evenly;
+}
+
+.social-links ul a{
+    color: #123C69;
+}
+.social-links ul a:hover {
+    color: #BAB2B5;
+    list-style: none; 
+}
+
+li { 
+    display:inline-block; 
+    padding: 0;
+}
+
+.card-img-top{
+    opacity: .5;
+}
+
+.card-img-top:hover{
+    opacity: 1.0;
+}
