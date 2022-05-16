@@ -2,24 +2,26 @@
 * { 
     font-family:  'Comfortaa', cursive;
     image-resolution: inherit;
-    background-color: #EAE7DC;
 }
 
 /* For everything within the porfolio area */
 .portfolio { 
-    background-color: #EEE2DC;
+    background-color: #EAE7DC;
     color: #123C69;
 }
 
+/* #about-me {
+    visibility:inherit;
+} */
 /* For everything within the card-body area */
 .card-body {
-    background-color: #EEE2DC;
+    background-color: #EAE7DC;
     color: #123C69;
 }
 
 /* For everything within the NavBar */
 .navbar {
-    background-color: #EEE2DC;
+    background-color:#EAE7DC;
     color: #123C69;
     justify-content: right;
 }
@@ -85,13 +87,13 @@
 }
 
 .h3 {
-    background-color: #EDC7b7;
+    background-color: #EAE7DC;
     color: #AC3B61;
     font-size: larger;
 }
 
 .card{
-    background-color: #EEE2DC;
+    background-color: #EAE7DC;
 }
 
 /* For the contact links */
